@@ -1,3 +1,13 @@
+# LAMP Wilderness Project
+
+This is set up for campers from the [LAMP Camp](https://lampcamp.guru) who want a way to build upon the skills they have learned during the camp. 
+
+
+
+
+
+
+
 # CodeIgniter Bootstrap
 
 Bundles the following packages together.
